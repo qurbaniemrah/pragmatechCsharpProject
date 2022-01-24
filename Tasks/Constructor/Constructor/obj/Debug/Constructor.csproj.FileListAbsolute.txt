@@ -1,0 +1,8 @@
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\pragmatechCsharpProject\Tasks\Constructor\Constructor\obj\Debug\Constructor.pdb

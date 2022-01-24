@@ -1,0 +1,5 @@
+D:\pragmatechCsharpProject\obj\Debug\net6.0\pragmatechCsharpProject.csproj.AssemblyReference.cache
+D:\pragmatechCsharpProject\obj\Debug\net6.0\pragmatechCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\pragmatechCsharpProject\obj\Debug\net6.0\pragmatechCsharpProject.AssemblyInfoInputs.cache
+D:\pragmatechCsharpProject\obj\Debug\net6.0\pragmatechCsharpProject.AssemblyInfo.cs
+D:\pragmatechCsharpProject\obj\Debug\net6.0\pragmatechCsharpProject.csproj.CoreCompileInputs.cache
