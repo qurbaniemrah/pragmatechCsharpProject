@@ -45,6 +45,10 @@ namespace Lesson2_Task
             Console.WriteLine("Palindrome");
             string inputPalindrome = Console.ReadLine();
             char[] sozunHisseleri = new char[inputPalindrome.Length];
+            if(sozunHisseleri.Length>3)
+            {
+                Console.WriteLine("verilen soz palindroma uygun gelmir");
+            }
             for(int i = 0; i<sozunHisseleri.Length; i++)
             {
                 sozunHisseleri[i] = inputPalindrome[i];
@@ -53,7 +57,7 @@ namespace Lesson2_Task
             foreach(char c in sozunHisseleri)
             {
                 Console.WriteLine(c);
-                Console.ReadLine();
+                
             }
             
             
