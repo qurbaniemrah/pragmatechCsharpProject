@@ -1,0 +1,8 @@
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\bin\Debug\CreateStudentClass.exe.config
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\bin\Debug\CreateStudentClass.exe
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\bin\Debug\CreateStudentClass.pdb
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\obj\Debug\CreateStudentClass.csproj.AssemblyReference.cache
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\obj\Debug\CreateStudentClass.csproj.SuggestedBindingRedirects.cache
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\obj\Debug\CreateStudentClass.csproj.CoreCompileInputs.cache
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\obj\Debug\CreateStudentClass.exe
+D:\pragmatechCsharpProject\Tasks\CreateStudentClass\CreateStudentClass\obj\Debug\CreateStudentClass.pdb
