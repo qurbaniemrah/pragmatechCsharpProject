@@ -59,9 +59,26 @@ namespace Lesson2_Task
                 Console.WriteLine("Palindrome deyil");
             }
 
+            //4)Remove duplicate data algoritmini yazin input: csharpcorner, output: csharpone c
+
+            string str = " csharpcorner";
+            string result = string.Empty;
+
+            for(int i = 0; i<str.Length; i++)
+            {
+               if(!result.Contains(str[i]))
+                {
+                    result += str[i];
+                }
+                Console.WriteLine(result);
+            }
+
+
+
             Console.ReadLine();
            
 
+ //Butun tasklar tamamlandi
  
     
             
