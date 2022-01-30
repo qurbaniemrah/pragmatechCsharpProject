@@ -18,47 +18,38 @@ namespace Lesson2_Task
         static void Main(string[] args)
         {
             //1)String Substring algorithmini qurun;
-            string name = "Qurbani";
-            string[] letters = name.Split(' ');
-            foreach (string letter in letters)
-            {
-                Console.WriteLine(letter.Substring(0, 7));
+            //string name = "Qurbani";
+            //string[] letters = name.Split(' ');
+            //foreach (string letter in letters)
+            //{
+            //    Console.WriteLine(letter.Substring(0, 7));
 
-            }
+            //}
 
             //2)Reverse algoritmi qurun : input: hello, output: olleh
-            Console.WriteLine("Soz daxil edin");
-            string soz = Console.ReadLine();
-            char[] ch = new char[soz.Length];
-            for (int i = soz.Length - 1; i>=0; i--)
-            {
-                ch[i]=soz[i];
-            }
+            //Console.WriteLine("Soz daxil edin");
+            //string soz = Console.ReadLine();
+            //char[] ch = new char[soz.Length];
+            //for (int i = soz.Length - 1; i>=0; i--)
+            //{
+            //    ch[i]=soz[i];
+            //}
 
-            foreach (char c in ch)
-            {
-                Console.WriteLine(c);
+            //foreach (char c in ch)
+            //{
+            //    Console.WriteLine(c);
                 
-            }
+            //}
 
             //3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana(soldan ve sagdan eyni oxunur)
-            Console.WriteLine("Palindrome");
-            string inputPalindrome = Console.ReadLine();
-            char[] sozunHisseleri = new char[inputPalindrome.Length];
-            if(sozunHisseleri.Length>3)
-            {
-                Console.WriteLine("verilen soz palindroma uygun gelmir");
-            }
-            for(int i = 0; i<sozunHisseleri.Length; i++)
-            {
-                sozunHisseleri[i] = inputPalindrome[i];
-            }
-
-            foreach(char c in sozunHisseleri)
+            Console.WriteLine("Palindrome yoxla :");
+            string sozler = Console.ReadLine();
+            char[] sozlerinKarakterleri = new char[sozler.Length];
+            foreach(char c in sozler)
             {
                 Console.WriteLine(c);
-                
             }
+            Console.WriteLine(sozlerinKarakterleri);
             
             
             Console.ReadLine();
