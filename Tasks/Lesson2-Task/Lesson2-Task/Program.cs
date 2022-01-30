@@ -38,21 +38,42 @@ namespace Lesson2_Task
             //foreach (char c in ch)
             //{
             //    Console.WriteLine(c);
-                
+
             //}
 
             //3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana(soldan ve sagdan eyni oxunur)
-            Console.WriteLine("Palindrome yoxla :");
-            string sozler = Console.ReadLine();
-            char[] sozlerinKarakterleri = new char[sozler.Length];
-            foreach(char c in sozler)
+
+           string a = string.Empty;
+            Console.WriteLine("Sozun palindrome oldugunu yoxluyuruq");
+            a = Console.ReadLine();
+
+            char[] temp = a.ToCharArray();
+            Array.Reverse(temp);
+            string b = new string(temp);
+
+            if(a.Equals(b))
             {
-                Console.WriteLine(c);
+                Console.WriteLine("Palindromdur");
+            }else
+            {
+                Console.WriteLine("Palindrome deyil");
             }
-            Console.WriteLine(sozlerinKarakterleri);
-            
-            
+
             Console.ReadLine();
+           
+
+ 
+    
+            
+
+           
+            
+            
+            
+            
+
+
+            
 
 
         }
