@@ -18,32 +18,32 @@ namespace Lesson2_Task
         static void Main(string[] args)
         {
             //1)String Substring algorithmini qurun;
-            //string name = "Qurbani";
-            //string[] letters = name.Split(' ');
-            //foreach (string letter in letters)
-            //{
-            //    Console.WriteLine(letter.Substring(0, 7));
+            string name = "Qurbani";
+            string[] letters = name.Split(' ');
+            foreach (string letter in letters)
+            {
+                Console.WriteLine(letter.Substring(0, 7));
 
-            //}
+            }
 
             //2)Reverse algoritmi qurun : input: hello, output: olleh
-            //Console.WriteLine("Soz daxil edin");
-            //string soz = Console.ReadLine();
-            //char[] ch = new char[soz.Length];
-            //for (int i = soz.Length - 1; i>=0; i--)
-            //{
-            //    ch[i]=soz[i];
-            //}
+            Console.WriteLine("Soz daxil edin");
+            string soz = Console.ReadLine();
+            char[] ch = new char[soz.Length];
+            for (int i = soz.Length - 1; i >= 0; i--)
+            {
+                ch[i] = soz[i];
+            }
 
-            //foreach (char c in ch)
-            //{
-            //    Console.WriteLine(c);
+            foreach (char c in ch)
+            {
+                Console.WriteLine(c);
 
-            //}
+            }
 
             //3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana(soldan ve sagdan eyni oxunur)
 
-           string a = string.Empty;
+            string a = string.Empty;
             Console.WriteLine("Sozun palindrome oldugunu yoxluyuruq");
             a = Console.ReadLine();
 

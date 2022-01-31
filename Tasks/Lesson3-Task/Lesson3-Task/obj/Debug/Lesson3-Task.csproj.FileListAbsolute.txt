@@ -1,0 +1,8 @@
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\bin\Debug\Lesson3-Task.exe.config
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\bin\Debug\Lesson3-Task.exe
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\bin\Debug\Lesson3-Task.pdb
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\obj\Debug\Lesson3-Task.csproj.AssemblyReference.cache
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\obj\Debug\Lesson3-Task.csproj.SuggestedBindingRedirects.cache
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\obj\Debug\Lesson3-Task.csproj.CoreCompileInputs.cache
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\obj\Debug\Lesson3-Task.exe
+D:\pragmatechCsharpProject\Tasks\Lesson3-Task\Lesson3-Task\obj\Debug\Lesson3-Task.pdb
