@@ -3,8 +3,11 @@
     "",
     "\\Tasks",
     "\\Tasks\\Lesson1-Task",
-    "\\Tasks\\Lesson1-Task\\Lesson1-Task"
+    "\\Tasks\\Lesson1-Task\\Lesson1-Task",
+    "\\Tasks\\Lesson3-Task",
+    "\\Tasks\\Lesson3-Task\\Lesson3-Task",
+    "\\Tasks\\Practice"
   ],
-  "SelectedNode": "\\Tasks",
+  "SelectedNode": "\\Tasks\\Lesson3-Task\\Lesson3-Task.sln",
   "PreviewInSolutionExplorer": false
 }

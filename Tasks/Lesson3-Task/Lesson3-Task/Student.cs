@@ -8,6 +8,7 @@ namespace Lesson3_Task
 {
     public class Student
     {
+        
         public string Fullname;
         public int GroupNo;
         public  int Age;
@@ -26,7 +27,14 @@ namespace Lesson3_Task
        public void getBirthYear()
         {
             Console.WriteLine(DateTime.Now.Year - Age);
+            Console.ReadLine();
 
+        }
+        
+
+       public void checkTelebeSayi(string fullName, int groupNo, int age)
+        {
+           
         }
         
 

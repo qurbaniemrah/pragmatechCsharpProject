@@ -16,15 +16,20 @@ namespace Lesson3_Task
 //ps:Student yaradilarken butun deyerlerin verilmesi mecburidir
     public class Program
     {
-       
+      
 
         static void Main(string[] args)
         {
-            Student student1 = new Student("Qurbani",10,30);
-            student1.getBirthYear();
-            Console.WriteLine(student1);
-            Console.ReadKey();
-          
+            Console.WriteLine("Qrupda nece telebe oldugun yoxla");
+            Console.WriteLine("Qrup nomresin daxil et");
+            Console.ReadLine();
+           
+
+           
+
+
+
         }
+       
     }
 }
